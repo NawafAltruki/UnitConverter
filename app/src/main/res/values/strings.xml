@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="result">The Result: %s Cup</string>
+    <string name="result_t">The Reault: %s mil</string>
+</resources>
